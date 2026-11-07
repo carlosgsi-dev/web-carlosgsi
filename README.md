@@ -10,7 +10,9 @@ cv.html
 css/styles.css
 js/language.js
 js/language-controls.js
-assets/images/avatar-placeholder.svg
+images/carlos.jpg
+images/carlos.png
+images/avatar-placeholder.svg
 README.md
 ```
 
@@ -31,7 +33,7 @@ Open `index.html` directly in a browser. Optionally run `python3 -m http.server 
 
 1. Exact typography: currently system sans-serif and monospace fonts.
 2. Spacing and proportions: currently provisional responsive values.
-3. Final avatar: replace the local SVG and update its alternative text.
+3. Confirm which of the local photo formats to use as the final avatar.
 4. Carlos's real introduction and role in both supported languages.
 5. Email, GitHub, and LinkedIn URLs.
 6. The three project names, descriptions, and repository URLs.
